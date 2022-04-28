@@ -1,0 +1,26 @@
+[
+  {
+    "matricula":"al17760724",
+    "nombre":"Martin Andrade",
+    "carrera":"Sistemas Computacionales", 
+    "semestre":"8vo",
+    "telefono":"646 2136-125",
+    "correo":"nose@gmail.com"
+  },
+  {
+    "matricula":"al17762022",
+    "nombre":"Vicki Ornelas",
+    "carrera":"Sistemas Computacionales", 
+    "semestre":"8vo",
+    "telefono":"646 5216-312",
+    "correo":"sise@gmail.com"
+  },
+  {
+    "matricula":"al17762202",
+    "nombre":"Juan Carlos Castillo",
+    "carrera":"Mecatronica", 
+    "semestre":"10mo",
+    "telefono":"616 1268-523",
+    "correo":"foraneo@gmail.com"
+  }
+]
